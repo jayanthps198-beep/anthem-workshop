@@ -1,6 +1,3 @@
-cd ~/anthem-workshop
-
-cat << 'EOF' > README.md
 # 🇮🇳 Anthem Workshop
 
 ### A Simple Web-Based Indian National Anthem Experience
